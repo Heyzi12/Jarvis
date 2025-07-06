@@ -1,0 +1,1 @@
+programs = {'Spotify.exe': False, 'Jarvis.py': 'C:\\jarvis_and_testcommandW\\JARVIS\\Jarvis.py', 'Telegram.exe': 'C:\\Users\\User\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe', 'steam.exe': 'C:\\Program Files (x86)\\Steam\\steam.exe', 'Code.exe': 'C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
